@@ -1,4 +1,4 @@
-# Algoritmica2
+# Algoritmica
 Este repositorio tiene el fin de poder contener los algoritmos, estructuras de datos y tener ejemplos de estos, ahora, una pequeña introduccion, un algoritmo es un es una secuencia finita de pasos las cuales puede ejecutar una computadora para poder solucionar problemas en el menor tiempo posible, se los usa para calculos y procesamientos de datos, hasta llegar a ser usados para que las maquinas logren obtener desiciones, pero en si, son instrucciones que fueron usadas hace mucho tiempo, en si, desde que se crearon los primeros procesos para poder crear algo usando una serie de instrucciones. 
 
 # Historia
