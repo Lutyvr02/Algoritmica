@@ -1,42 +1,60 @@
-#include <bits/stdc++.h>
-using namespace std;
+#include <bits/stdc++.h> 
+using namespace std; 
 
-int numberOfNodes = 0;
 struct node {
-    map<char, node*> mapero;
-    string company;
-    bool isWord;                
-} *trie;
+    char currentCharacter;       
+    bool isWord;         
+    struct node *children[27];
+    node() {
+        isWord = false;
+    }
+}*trie; 
 
 void init() {
     trie = new node();
-    trie->isWord = false;
-    numberOfNodes++;
 }
 
 void insertWord(string word) {
-    node *currentNode = trie;  
-    for (int i = 0; i < word.length(); i++) {
-        
-        if(currentNode->mapero.find(word[i]) == currentNode->mapero.end()) {
-            currentNode->mapero[word[i]] = new node();
-            numberOfNodes++;
+    node *currentNode =  trie;  
+    for (int i = 0; i< word.length(); i++) { 
+        int character = word[i] - 'a'; 
+        if(currentNode->children[character] == NULL ) {
+            currentNode->children[character] = new node();
         }
-        currentNode = currentNode->mapero[word[i]];
+        currentNode = currentNode->children[character];
+        currentNode->currentCharacter = word[i];
     }
-    currentNode->isWord=true;
-    cout<<"Se insertó la palabra "<<word<<endl;
+    currentNode->isWord = true;
+}
+
+bool searchWord(string word) {
+    node *currentNode =  trie;  
+    for (int i = 0; i< word.length(); i++) {
+        int character = word[i] - 'a';
+        if(currentNode->children[character] == NULL ) {
+           return false;
+        }
+        currentNode = currentNode->children[character];
+    }
+    cout<<currentNode->currentCharacter<<endl;
+    return currentNode->isWord;
+}
+void isThereWord(string word) {
+    if(searchWord(word)) {
+        cout<<"si existe : "<<word<<" en el trie"<<endl;
+    } else {
+        cout<<"No Existe :P"<<endl;
+    }
 }
 
 int main() {
-
-    init(); 
-    string word = "alto";
-    insertWord(word);
+    init();  
     string word = "auto";
     insertWord(word);
+    isThereWord(word);
     word = "automovil";   
     insertWord(word);
-    cout<<numberOfNodes++<<endl;
+    isThereWord("auto");
+    isThereWord(word);
     return 0;
 }
