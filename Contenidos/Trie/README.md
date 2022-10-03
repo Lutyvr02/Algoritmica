@@ -3,4 +3,5 @@ Este algoritmo se creo en 1959 por Rene de la Briandais y Edward Fredkin, este a
 
 <img src="https://user-images.githubusercontent.com/101956531/193482034-7f6bc638-aff5-43d3-ae3b-6bfebf307d9a.png" width="400">
 
-## Trie usando vectores
+## Trie normal 
+
