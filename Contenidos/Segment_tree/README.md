@@ -1,0 +1,1 @@
+EL segment tree fue creado por Jon Bentley en 1977, en las soluciones a los problemas del rectagulo de klee en si tiene la funcion de poder aplicar sumas, restas y otras operaciones a un rango de numeros, tambien se puede cambiar a estos y actualizar los resultados se enfoca en la idea de dividir y conquistaras.
