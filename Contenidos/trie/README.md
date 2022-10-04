@@ -4,5 +4,5 @@ El metodo trie se enfoca en varias operaciones, tales como la insercion, elimina
 <img src="https://user-images.githubusercontent.com/101956531/193711941-f197f589-e82f-430d-915c-c580bc5ddaa4.png" width="600">
 ## Referencias
 * [Trie de Wikipedia](https://en.wikipedia.org/wiki/Trie)
-* [Trie](https://www.geeksforgeeks.org/trie-insert-and-search/)
-* [Trie con map](https://www.geeksforgeeks.org/trie-memory-optimization-using-hash-map/)
+* [Trie](https://www.geeksforgeeks.org/trie-insert-and-search)
+* [Trie con map](https://www.geeksforgeeks.org/trie-memory-optimization-using-hash-map)
