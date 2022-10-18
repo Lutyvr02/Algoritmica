@@ -35,7 +35,7 @@ En si, estas herramientas son muy efectivas para todo tipo de situaciones y los 
 
 # Extra 
 Aqui hay un link para poder entrar a una lista de canciones recomendadas por el creador de este repositorio, Luciano Vargas Ramirez
-[Canciones](https://www.youtube.com/playlist?list=PL4D4ltDFU4oA0oyJ9eRT4t7J2Xz3bj9ko/)
+[Canciones](https://www.youtube.com/playlist?list=PL4D4ltDFU4oA0oyJ9eRT4t7J2Xz3bj9ko).
 
 <img src="https://user-images.githubusercontent.com/101956531/192424525-3e9609b4-4a69-4219-903d-5e3e47b71243.jpg" width="550">
 
