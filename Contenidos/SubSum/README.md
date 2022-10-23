@@ -8,5 +8,5 @@ algunas variantes restringidas también son NP-completas.
 <img src="https://user-images.githubusercontent.com/101956531/197400381-05f1465f-3933-410f-979b-4409811dca9f.jpg" width="400">
 
 ## Referencias
-* [SubsetSumDp](https://www.geeksforgeeks.org/subset-sum-problem-dp-25/)
+* [SubsetSumDp](https://www.geeksforgeeks.org/subset-sum-problem-dp-25/).
 
