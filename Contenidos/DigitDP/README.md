@@ -6,4 +6,8 @@ Entonces, si decimos que G(x) representa el número de tales enteros entre 1 y x
 entonces el número de tales enteros entre a y b puede ser dado por G(b) – G(a-1) dado. Aquí es donde entra en juego Digit DP (Programación Dinámica). 
 Todos los problemas de conteo de enteros que satisfacen las propiedades anteriores se pueden resolver usando el método de números DP.
 
-* [DigitDp](https://github.com/Lutyvr02/Algoritmica/blob/main/Contenidos/Kruskal/kruskal.cpp) en C++.
+* [DigitDp](https://github.com/Lutyvr02/Algoritmica/blob/main/Contenidos/DigitDP/digitdp.cpp) en C++.
+* <img src="https://user-images.githubusercontent.com/101956531/197399401-4fab630a-91d7-4647-b57b-ceca83106ecd.png" width="400">
+
+## Referencias
+* [DigitDp](https://www.geeksforgeeks.org/digit-dp-introduction/).
