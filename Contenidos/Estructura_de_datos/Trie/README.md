@@ -15,3 +15,5 @@ El metodo trie se enfoca en varias operaciones, tales como la insercion, elimina
 
 ## Problema relacionado al algoritmo.
 * [Lista del telefono](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2347).
+
+## Su tiempo algoritmico es O(W*L), donde W es la cantidad de palabras y L es un promedio de la longitud de la palabra a buscar.
