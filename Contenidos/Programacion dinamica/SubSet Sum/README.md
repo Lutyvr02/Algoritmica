@@ -13,3 +13,5 @@ algunas variantes restringidas también son NP-completas.
 
 ## Problema relacionado al algoritmo.
 * [SubSet Sum](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=4776).
+
+## Su Tiempo algoritmico es: O(N * sum) donde N es el tamaño del arreglo y sum es el objetivo final.
