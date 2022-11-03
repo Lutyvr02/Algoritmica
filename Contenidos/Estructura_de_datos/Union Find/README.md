@@ -10,3 +10,6 @@ Una estructura de datos Union Find se enfoca en coleccionar y unir sets de numer
 * [Union Find, by wikipedia](https://en.wikipedia.org/wiki/Disjoint-set_data_structure).
 * [Union Find](https://www.geeksforgeeks.org/union-find/).
 * [Union find en video](https://www.youtube.com/watch?v=0jNmHPfA_yE).
+
+## Problema relacionado al algoritmo.
+* [Union Find Tree](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=DSL_1_A).
