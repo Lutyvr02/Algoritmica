@@ -15,3 +15,5 @@ se agrega la conexión más económica posible del árbol a otro vértice.
 
 ## Problema relacionado al algoritmo.
 * [Minimun Spanning Tree](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=GRL_2_A).
+
+## Su Tiempo algoritmico es: O((E+V)log(V)), donde E son los vertices y V son los nodos.
