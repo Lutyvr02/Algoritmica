@@ -6,9 +6,7 @@ todos los elementos de la subsecuencia se clasifiquen en orden ascendente.
 
 * [Forma de solucionar el LIS](https://github.com/Lutyvr02/Algoritmica/blob/main/Contenidos/Problemas/LIS/LIS.cpp) en C++.
 
-<img src="(https://user-images.githubusercontent.com/101956531/199815812-9b360eab-c40e-4a2c-949f-ea28da1b175a.png)" width="400">
-<img src="(https://user-images.githubusercontent.com/101956531/197396633-74dc974a-a03d-4f03-a567-0fe07c855713.png)" width="400">
-
 ## Referencias 
 * [LIS problem](https://www.geeksforgeeks.org/longest-increasing-subsequence-dp-3/).
 * [Video explicacion del problema LIS](https://www.youtube.com/watch?v=cjWnW0hdF1Y).
+![Longest-Increasing-Subsequence](https://user-images.githubusercontent.com/101956531/199815988-09474cb5-99f8-4e80-9687-8fcef6f6cb8a.png)
