@@ -15,4 +15,5 @@ se las descarta y se usa recursividad para poder usar la siguiente solucion.
 ## Problema relacionado al algoritmo.
 * [Sucesores del sultan](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=363&page=show_problem&problem=103).
 
+## Su Tiempo algoritmico es (Convex hull): O(n * log n).
 
