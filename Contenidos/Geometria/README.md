@@ -12,3 +12,4 @@ También se consideran a estos como una rama gráfica de la computadora, en esta
 * [Convex hull](https://cp-algorithms.com/geometry/convex-hull.html).
 * [Convex hull en video](https://www.youtube.com/watch?v=B2AJoQSZf4M).
 
+## Su Tiempo algoritmico (Convex hull) es: O(n*log n).
