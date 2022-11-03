@@ -15,3 +15,5 @@ Todos los problemas de conteo de enteros que satisfacen las propiedades anterior
 
 ## Problema relacionado al algoritmo.
 * [Investigacion](https://vjudge.net/contest/269679#problem/B).
+
+## Su Tiempo algoritmico es:  O(posision∗numero∗longitud)
