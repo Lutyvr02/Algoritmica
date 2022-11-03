@@ -11,3 +11,4 @@ expansión mínimo.
 
 ## Referencias
 * [Kruskal](https://www.geeksforgeeks.org/kruskals-minimum-spanning-tree-algorithm-greedy-algo-2/).
+* [Kruskal en video](https://www.youtube.com/watch?v=ivcbaIhrcsE).
