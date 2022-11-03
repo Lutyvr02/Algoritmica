@@ -8,3 +8,5 @@ todos los bloques de tamaño menor que n. Determine el máximo que puede obtener
 ## Referencias. 
 * [Rod Cutting Problem](https://www.geeksforgeeks.org/cutting-a-rod-dp-13/).
 * [Rod Cutting Problem en video](https://www.youtube.com/watch?v=HFPH4XGbp44).
+
+## Su Tiempo algoritmico es: O(N^2).
