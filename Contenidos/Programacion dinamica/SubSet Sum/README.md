@@ -9,3 +9,4 @@ algunas variantes restringidas también son NP-completas.
 
 ## Referencias
 * [SubsetSumDp](https://www.geeksforgeeks.org/subset-sum-problem-dp-25/).
+* [SubSet Sum en video](https://www.youtube.com/watch?v=s6FhG--P7z0).
