@@ -16,4 +16,4 @@ parecer más tarde en un camino de aumento. La longitud de los caminos simples e
 ## Problema relacionado al algoritmo.
 * [Banda ancha](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&category=685&page=show_problem&problem=761).
 
-## Su Tiempo algoritmico es: O(log n).
+
