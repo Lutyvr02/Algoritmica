@@ -10,3 +10,6 @@ algunas variantes restringidas también son NP-completas.
 ## Referencias
 * [SubsetSumDp](https://www.geeksforgeeks.org/subset-sum-problem-dp-25/).
 * [SubSet Sum en video](https://www.youtube.com/watch?v=s6FhG--P7z0).
+
+## Problema relacionado al algoritmo.
+* [SubSet Sum](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=4776).
