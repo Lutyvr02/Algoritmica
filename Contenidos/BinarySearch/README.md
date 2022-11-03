@@ -11,3 +11,5 @@ La búsqueda binaria compara el valor objetivo con el elemento central de la mat
 
 ## Problema relacionado al algoritmo.
 * [Tirando pelotas](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&category=661&page=show_problem&problem=620).
+
+## Su Tiempo algoritmico es: O(log n).
