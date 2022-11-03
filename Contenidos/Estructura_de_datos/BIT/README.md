@@ -5,3 +5,4 @@ En si se puede decir que BIT es una mejora al segment tree ya que en si este alg
 
 ## Referencias.
 [BIT](https://www.geeksforgeeks.org/binary-indexed-tree-or-fenwick-tree-2/).
+[BIT en video](https://www.youtube.com/watch?v=CWDQJGaN1gY).
