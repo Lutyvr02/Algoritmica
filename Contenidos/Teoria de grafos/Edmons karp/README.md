@@ -12,3 +12,6 @@ parecer más tarde en un camino de aumento. La longitud de los caminos simples e
 
 * [Edmonds Karp](https://www.geeksforgeeks.org/binary-search/).
 * [Video de Edmonds Karp](https://www.youtube.com/watch?v=RppuJYwlcI8).
+
+## Problema relacionado al algoritmo.
+* [Banda ancha](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&category=685&page=show_problem&problem=761).
