@@ -1,5 +1,5 @@
 
-# Binary Search
+# Floyd-Warshall
 
 El algoritmo de Floyd-Warshall se utiliza para resolver todos los problemas de ruta más corta para todos los pares.
 El problema es encontrar la distancia más corta entre cada par de nodos en un gráfico dirigido ponderado por borde dado.
