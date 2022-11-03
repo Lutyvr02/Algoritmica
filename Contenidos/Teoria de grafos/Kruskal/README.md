@@ -16,3 +16,4 @@ expansión mínimo.
 ## Problema relacionado al algoritmo.
 * [Balliard](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=1328).
 
+## Su Tiempo algoritmico es: O(E log V), donde E es el numero de nodos y V es el numero de vertices
