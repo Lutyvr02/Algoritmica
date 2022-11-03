@@ -11,3 +11,4 @@ todos los elementos de la subsecuencia se clasifiquen en orden ascendente.
 * [Video explicacion del problema LIS](https://www.youtube.com/watch?v=cjWnW0hdF1Y).
 ## Problema relacionado al algoritmo.
 * [Murcia](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=2890).
+##  Usando DP la complejidad es O(n^2).
