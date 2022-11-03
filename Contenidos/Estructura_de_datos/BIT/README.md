@@ -8,3 +8,5 @@ En si se puede decir que BIT es una mejora al segment tree ya que en si este alg
 * [BIT en video](https://www.youtube.com/watch?v=CWDQJGaN1gY).
 ## Problema relacionado al algoritmo.
 * [binary indexed tree](https://dmoj.ca/problem/ds1).
+
+## Su Tiempo algoritmico es: O(log n).
