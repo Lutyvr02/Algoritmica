@@ -10,3 +10,4 @@ El metodo trie se enfoca en varias operaciones, tales como la insercion, elimina
 * [Trie de Wikipedia](https://en.wikipedia.org/wiki/Trie).
 * [Trie](https://www.geeksforgeeks.org/trie-insert-and-search).
 * [Trie con map](https://www.geeksforgeeks.org/trie-memory-optimization-using-hash-map).
+* [Trie en video] (https://www.youtube.com/watch?v=AXjmTQ8LEoI).
