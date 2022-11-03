@@ -7,5 +7,5 @@ Dados 2 palabras, encontrar cuantas modificaciones se tienen que hacer para que 
 
 
 ## Referencias. 
-* [Binary Search](https://www.geeksforgeeks.org/binary-search/).
+* [Edit Distance](https://www.geeksforgeeks.org/edit-distance-dp-5/).
 * [Problema Edit Distance](https://www.youtube.com/watch?v=Dd_NgYVOdLk).
