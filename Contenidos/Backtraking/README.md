@@ -10,5 +10,6 @@ se las descarta y se usa recursividad para poder usar la siguiente solucion.
 ## Referencias.
 * [BackTraking](https://www.geeksforgeeks.org/introduction-to-backtracking-data-structure-and-algorithm-tutorials/).
 * [BackTraking de Wikipedia](https://en.wikipedia.org/wiki/Backtracking).
+* [BackTraking en video](https://www.youtube.com/watch?v=Lnw2CRLWy5A).
 
 
