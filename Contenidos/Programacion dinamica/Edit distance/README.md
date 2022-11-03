@@ -9,3 +9,5 @@ Dados 2 palabras, encontrar cuantas modificaciones se tienen que hacer para que 
 ## Referencias. 
 * [Edit Distance](https://www.geeksforgeeks.org/edit-distance-dp-5/).
 * [Problema Edit Distance](https://www.youtube.com/watch?v=Dd_NgYVOdLk).
+
+## Su Tiempo algoritmico es: O(m*n) donde m y n son los tamaños de los strings. 
