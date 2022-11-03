@@ -6,3 +6,4 @@ EL segment tree fue creado por Jon Bentley en 1977, en las soluciones a los prob
 
 ## Referencias.
 * [Segment tree, efficient implementation](https://www.geeksforgeeks.org/segment-tree-efficient-implementation/?ref=lbp).
+* [Segment tree en video](https://www.youtube.com/watch?v=-dUiRtJ8ot0).
