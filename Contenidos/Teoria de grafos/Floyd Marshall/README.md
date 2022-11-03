@@ -16,3 +16,5 @@ El problema es encontrar la distancia más corta entre cada par de nodos en un g
 
 ## Problema relacionado al algoritmo.
 * [Audiofobia](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=989).
+
+## Su Tiempo algoritmico es: O ((n3)*(n^3)*(n3)) donde n es el numero de nodos en el grafo.
