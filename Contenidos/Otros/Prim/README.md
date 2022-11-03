@@ -11,3 +11,7 @@ se agrega la conexión más económica posible del árbol a otro vértice.
 ## Referencias
 * [Prim](https://www.geeksforgeeks.org/prims-minimum-spanning-tree-mst-greedy-algo-5/).
 * [Video de Prim](https://www.youtube.com/watch?v=5M7bOXrn54A).
+
+
+## Problema relacionado al algoritmo.
+* [Minimun Spanning Tree](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=GRL_2_A).
