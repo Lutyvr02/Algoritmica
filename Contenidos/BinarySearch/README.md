@@ -7,3 +7,4 @@ La búsqueda binaria compara el valor objetivo con el elemento central de la mat
 
 ## Referencias. 
 * [Binary Search](https://www.geeksforgeeks.org/binary-search/).
+* [Binary Search en video](https://www.youtube.com/watch?v=V_T5NuccwRA).
