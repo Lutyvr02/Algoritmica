@@ -13,3 +13,6 @@ El problema es encontrar la distancia más corta entre cada par de nodos en un g
 
 * [Floyd Marshall](https://www.geeksforgeeks.org/floyd-warshall-algorithm-dp-16/).
 * [Video de Floyd Marshall](https://www.youtube.com/watch?v=oNI0rf2P9gE).
+
+## Problema relacionado al algoritmo.
+* [Audiofobia](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=989).
