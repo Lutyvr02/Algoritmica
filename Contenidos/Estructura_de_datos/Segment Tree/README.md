@@ -9,3 +9,5 @@ EL segment tree fue creado por Jon Bentley en 1977, en las soluciones a los prob
 * [Segment tree en video](https://www.youtube.com/watch?v=-dUiRtJ8ot0).
 ## Problema relacionado al algoritmo.
 * [Ahoy, Piratas](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&category=134&page=show_problem&problem=2397).
+
+## Su Tiempo algoritmico es: O(n)
