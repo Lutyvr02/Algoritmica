@@ -12,4 +12,7 @@ se las descarta y se usa recursividad para poder usar la siguiente solucion.
 * [BackTraking de Wikipedia](https://en.wikipedia.org/wiki/Backtracking).
 * [BackTraking en video](https://www.youtube.com/watch?v=Lnw2CRLWy5A).
 
+## Problema relacionado al algoritmo.
+* [Sucesores del sultan](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=363&page=show_problem&problem=103).
+
 
