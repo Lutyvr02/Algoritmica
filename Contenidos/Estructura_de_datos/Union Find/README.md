@@ -13,3 +13,5 @@ Una estructura de datos Union Find se enfoca en coleccionar y unir sets de numer
 
 ## Problema relacionado al algoritmo.
 * [Union Find Tree](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=DSL_1_A).
+
+## Su Tiempo algoritmico es: O(n*log n).
